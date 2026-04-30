@@ -135,11 +135,6 @@ public class Loops {
 
         //print the all integers ranges from 50 to 100 that are all divisible by 7
 
-        // System.out.println("The number which is divisible by 7 in range of 50 to 100");
-        // for(int i = 50; i <= 100; i++){
-        //     if(i % 7 == 0){
-        //         System.out.println(i);
-        //     }
-        // }
+        // Pattern
     }
 }
